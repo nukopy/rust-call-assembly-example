@@ -1,0 +1,1 @@
+# Rust call assembly example
